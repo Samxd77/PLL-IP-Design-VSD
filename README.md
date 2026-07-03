@@ -30,7 +30,7 @@ cat > week1/README.md << 'EOF'
 # Week 1 - Research & Repository Analysis
 
 ## Objective
-Study the fundamentals of Phase-Locked Loop (PLL) design and analyze the reference SKY130 PLL repository using AI-assisted workflows.
+Study the fundamentals of Phase-Locked Loop (PLL) design and analyze the reference SKY130 PLL repository using AI-assisted workflows and to create a single page IEEE format report for this project.
 
 ## Tasks Completed
 - Studied PLL fundamentals.
@@ -60,15 +60,8 @@ Study the fundamentals of Phase-Locked Loop (PLL) design and analyze the referen
 
 ## Outcome
 Successfully completed the research phase and prepared for circuit-level implementation beginning with the Phase Frequency Detector (PFD).
+- Week 1 Report (Google Drive):https://drive.google.com/file/d/1XBzC7_IfPT1gV5B7gHyh5a-Sf38fwQxt/view?usp=sharing
 
-## Next Steps
-- Design and simulate the PFD.
-- Verify UP/DOWN pulse generation using ngspice.
-- Continue with Charge Pump, Loop Filter, VCO, and Frequency Divider.
-EOF
-
-git add week1/README.md
-git commit -m "Week 1: PLL research and repository analysis"
 ## Repository Contents
 
 - PLL circuit blocks
