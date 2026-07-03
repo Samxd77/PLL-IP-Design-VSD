@@ -45,7 +45,7 @@ Study the fundamentals of Phase-Locked Loop (PLL) design and analyze the referen
 - Studied PLL concepts including phase locking, lock time, duty cycle, and 8× clock multiplication.
 - Used AI tools to summarize the repository, explain concepts, and plan the implementation workflow.
 ## Outcome
-Successfully completed the research phase and prepared for circuit-level implementation beginning with the Phase Frequency Detector (PFD).
+Successfully completed the research phase and prepared IEEE based single pade report 
 - Week 1 Report (Google Drive):https://drive.google.com/file/d/1XBzC7_IfPT1gV5B7gHyh5a-Sf38fwQxt/view?usp=sharing
 
 
