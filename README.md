@@ -26,7 +26,7 @@ The primary objective is to study and verify the operation of the Phase Frequenc
 - ChatGPT
 mkdir -p week1
 
-# Week 1 - Research & Repository Analysis
+# Week 1 - [Research & Repository Analysis](./Week1/readme.md)
 
 
 
